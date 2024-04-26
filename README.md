@@ -18,5 +18,5 @@ The measurement metrics captured during load testing include:
 ## Repository Structure
 
 - `tea_script.js`: Load testing script used to simulate user interactions and generate load on the TeaStore environment.
-- `metrics/`: Directory containing measurement metrics captured during load testing.
+- `tea_script_metrics/`: Directory containing measurement metrics captured during load testing.
 - `README.md`: Project documentation.
